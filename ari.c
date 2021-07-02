@@ -1,4 +1,3 @@
-shafeen, [02.07.21 12:46]
 #include<cs50.h>
 #include<ctype.h>
 #include<string.h>
